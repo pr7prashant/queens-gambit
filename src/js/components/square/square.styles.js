@@ -38,7 +38,7 @@ export const Queen2Valid = styled.div`
 	height: 40px;
 	border-radius: 50%;
 	box-sizing: border-box;
-	background-color: yellow;
+	background-color: lightgreen;
 `;
 
 export const Queen2Capture = styled.img`
