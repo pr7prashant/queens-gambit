@@ -1,0 +1,5 @@
+{
+	"SET_QUEEN_1": 1,
+	"SET_QUEEN_2": 2,
+	"RESET_BOARD": 3
+}
